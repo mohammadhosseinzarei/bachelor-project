@@ -1,0 +1,36 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{booktabs}
+\usepackage{geometry}
+\usepackage{polyglossia}
+\setmainlanguage{arabic}
+\setmainfont{Amiri} % یا فونتی که در سیستم شما موجود است، مثلاً Scheherazade
+\geometry{margin=1in}
+
+\title{جدول اندازه گیری رویایی پرسشنامه}
+\author{}
+\date{}
+
+\begin{document}
+	
+	\maketitle
+	
+	\section{جدول فرکانس و محاسبات}
+	\begin{tabular}{lcccc}
+		\toprule
+		\textbf{گزینه} & \textbf{Fᵢ} & \textbf{fᵢ = Fᵢ/n} & \textbf{Xᵢ} & \textbf{fᵢ × Xᵢ} \\
+		\midrule
+		خیلی کم & 0 & 0.00 & 0 & 0.00 \\
+		کم & 1 & 0.06 & 0.25 & 0.016 \\
+		متوسط & 3 & 0.20 & 0.5 & 0.100 \\
+		زیاد & 7 & 0.46 & 0.75 & 0.350 \\
+		خیلی زیاد& 4 & 0.26 & 1 & 0.266 \\
+		مجموع & 15 & 1.00 & 1 & 0.733 \\
+		\bottomrule
+	\end{tabular}
+	
+	\subsection{نتیجه‌گیری}
+	میانگین وزنی $0.8$ \\
+	میزان رویایی: $0.83$
+	
+\end{document}

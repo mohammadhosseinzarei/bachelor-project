@@ -1,0 +1,1866 @@
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.1)  5 NOV 2025 17:10
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**document1.tex
+(./document1.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(f:/texlive/2025/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(f:/texlive/2025/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count192
+\c@section=\count193
+\c@subsection=\count194
+\c@subsubsection=\count195
+\c@paragraph=\count196
+\c@subparagraph=\count197
+\c@figure=\count198
+\c@table=\count199
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(f:/texlive/2025/texmf-dist/tex/xelatex/xepersian/xepersian.sty
+Package: xepersian 2025/02/02 v25.2.2 (Release Persian Gate) Persian typesettin
+g in XeLaTeX
+
+****************************************************
+* 
+* xepersian package (Persian for LaTeX, using XeTeX engine)
+* 
+* Description: The package supports Persian
+* typesetting, using fonts provided in the
+* distribution.
+* 
+* Copyright (c) 2008--2025 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub Organization
+* 
+* v25.2.2 (Release Persian Gate), 2025/02/02
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/xepersian
+* 
+* Issue tracker: https://github.com/xepersian/xepersian/issues
+* 
+* Discussions: https://github.com/xepersian/xepersian/discussions
+* 
+* Primary author of xepersian package: Vafa Khalighi.
+* 
+****************************************************
+(f:/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.sty
+(f:/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(f:/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-01-18 L3 programming layer (loader) 
+
+(f:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count266
+\l__pdf_internal_box=\box52
+\g__pdf_backend_annotation_int=\count267
+\g__pdf_backend_link_int=\count268
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+
+(f:/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count269
+\l__fontspec_language_int=\count270
+\l__fontspec_strnum_int=\count271
+\l__fontspec_tmp_int=\count272
+\l__fontspec_tmpa_int=\count273
+\l__fontspec_tmpb_int=\count274
+\l__fontspec_tmpc_int=\count275
+\l__fontspec_em_int=\count276
+\l__fontspec_emdef_int=\count277
+\l__fontspec_strong_int=\count278
+\l__fontspec_strongdef_int=\count279
+\l__fontspec_tmpa_dim=\dimen142
+\l__fontspec_tmpb_dim=\dimen143
+\l__fontspec_tmpc_dim=\dimen144
+
+(f:/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(f:/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(f:/texlive/2025/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
+Package: xepersian-persiancal 2025/01/01 v0.3 provides Persian calendar
+\XePersian@i=\count280
+\XePersian@y=\count281
+\XePersian@m=\count282
+\XePersian@d=\count283
+\XePersian@latini=\count284
+\XePersian@persiani=\count285
+\XePersian@latinii=\count286
+\XePersian@persianii=\count287
+\XePersian@latiniii=\count288
+\XePersian@persianiii=\count289
+\XePersian@latiniv=\count290
+\XePersian@persianiv=\count291
+\XePersian@latinv=\count292
+\XePersian@persianv=\count293
+\XePersian@latinvi=\count294
+\XePersian@persianvi=\count295
+\XePersian@latinvii=\count296
+\XePersian@persianvii=\count297
+\XePersian@latinviii=\count298
+\XePersian@persianviii=\count299
+\XePersian@latinix=\count300
+\XePersian@persianix=\count301
+\XePersian@latinx=\count302
+\XePersian@persianx=\count303
+\XePersian@latinxi=\count304
+\XePersian@persianxi=\count305
+\XePersian@latinxii=\count306
+\XePersian@persianxii=\count307
+\XePersian@persianxiii=\count308
+\XePersian@temp=\count309
+\XePersian@temptwo=\count310
+\XePersian@tempthree=\count311
+\XePersian@yModHundred=\count312
+\XePersian@thirtytwo=\count313
+\XePersian@dn=\count314
+\XePersian@sn=\count315
+\XePersian@mminusone=\count316
+)
+(f:/texlive/2025/texmf-dist/tex/xelatex/xepersian/unicode-persianmath.sty
+Package: unicode-persianmath 2025/02/02 v1.2.3 Unicode Persian math
+)
+(f:/texlive/2025/texmf-dist/tex/xelatex/bidi/bidi.sty
+Package: bidi 2025/02/02 v25.2.2 (Release Maryam Mirzakhani) Bidirectional type
+setting in plain TeX and LaTeX
+
+****************************************************
+* 
+* bidi package (Bidirectional typesetting in
+* plain TeX and LaTeX, using XeTeX engine)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2007--2025 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub organization
+* 
+* v25.2.2 (Release Maryam Mirzakhani), 2025/02/02
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/bidi
+* 
+* Issue tracker: https://github.com/xepersian/bidi/issues
+* 
+* Discussions: https://github.com/xepersian/bidi/discussions
+* 
+* Primary author of bidi package: Vafa Khalighi.
+* 
+****************************************************
+(f:/texlive/2025/texmf-dist/tex/xelatex/bidi/biditools.sty
+Package: biditools 2025/02/02 v2.7 Programming tools for bidi package
+\@bidi@envbody=\toks17
+\@bidi@emptytoks=\toks18
+\bidi@poscount=\count317
+\bidi@tempcountb=\count318
+\bidi@temptoksa=\toks19
+\bidi@temptoksb=\toks20
+\bidi@dummies=\count319
+\bidi@are@these@correct=\toks21
+\bidi@toks@lista=\toks22
+\bidi@toks@listb=\toks23
+\bidi@stack@length=\count320
+\bidi@empty@stack=\toks24
+\bidi@looprepeat@depth=\count321
+)
+(f:/texlive/2025/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
+
+(f:/texlive/2025/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
+
+(f:/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(f:/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(f:/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(f:/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(f:/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(f:/texlive/2025/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+(f:/texlive/2025/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count322
+Package zref Info: New property: abspage on input line 67.
+)
+\@bidi@copyins@=\insert252
+\bidi@typesethour=\count323
+\bidi@typesetminute=\count324
+
+(f:/texlive/2025/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
+File: latex-xetex-bidi.def 2025/01/03 v1.5.2 bidi adaptations for `latex.ltx' f
+or XeTeX engine
+\bidi@n@everypar=\toks25
+LaTeX Info: Redefining \centerline on input line 316.
+LaTeX Info: Redefining \leftline on input line 325.
+LaTeX Info: Redefining \rightline on input line 326.
+LaTeX Info: Redefining \underline on input line 334.
+\bidi@column@check@number=\count325
+
+(f:/texlive/2025/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
+File: footnote-xetex-bidi.def 2024/12/14 v1.3 bidi footnote macros for XeTeX en
+gine
+\c@footdir@label=\count326
+\footdir@toks=\toks26
+)
+(f:/texlive/2025/texmf-dist/tex/xelatex/bidi/article-xetex-bidi.def
+File: article-xetex-bidi.def 2025/01/05 v0.9 bidi adaptations for standard arti
+cle class for XeTeX engine
+))
+\bidi@digits=\count327
+\bidi@digits@charclass=\XeTeXcharclass1
+\bidi@sepmark@charclass=\XeTeXcharclass2
+)
+\xepersian@tcl=\count328
+\xepersian@ilg=\dimen145
+\xepersian@strutilg=\dimen146
+
+(f:/texlive/2025/texmf-dist/tex/xelatex/xepersian/footnote-xetex-bidi-xetex-xep
+ersian.def
+File: footnote-xetex-bidi-xetex-xepersian.def 2017/08/09 v0.6 xepersian adaptat
+ions for footnotes for XeTeX engine
+)
+(f:/texlive/2025/texmf-dist/tex/xelatex/xepersian/article-xetex-xepersian.def
+File: article-xetex-xepersian.def 2010/07/25 v0.2 xepersian adaptations for sta
+ndard article class for XeTeX engine
+)
+\xepersian@toks=\toks27
+)
+
+Package fontspec Info: 
+(fontspec)             Font family 'lmroman10-regular(0)' created for font
+(fontspec)             'lmroman10-regular' with options
+(fontspec)             [Ligatures=TeX,Path,BoldFont={lmroman10-bold},BoldItalic
+Font={lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmroma
+ncaps10-regular},SlantedFont={lmromanslant10-regular},BoldSlantedFont={lmromans
+lant10-bold}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-regular]/OT:script=latn;language=dflt;map
+ping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bold]/OT:script=latn;language=dflt;mappin
+g=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-italic]/OT:script=latn;language=dflt;mapp
+ing=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-regular]/OT:script=latn;language=dfl
+t;mapping=tex-text;"
+(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bolditalic]/OT:script=latn;language=dflt;
+mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-bold]/OT:script=latn;language=dflt;m
+apping=tex-text;"
+(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "B Nazanin/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'BNazanin(0)' created for font 'B Nazanin'
+(fontspec)             with options
+(fontspec)             [RawFeature={script=arab},Ligatures=PersianTeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"B
+(fontspec)             Nazanin/OT:language=dflt;script=arab;mapping=persian-tex
+-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"B
+(fontspec)             Nazanin/B/OT:language=dflt;script=arab;mapping=persian-t
+ex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"B
+(fontspec)             Nazanin/BI/OT:language=dflt;script=arab;mapping=persian-
+tex-text;"
+
+(f:/texlive/2025/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(f:/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(f:/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks28
+)
+(f:/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(f:/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(f:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(f:/texlive/2025/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+)
+(f:/texlive/2025/texmf-dist/tex/xelatex/bidi/graphicx-xetex-bidi.def
+File: graphicx-xetex-bidi.def 2017/06/17 v0.5 bidi adaptations for graphicx pac
+kage for XeTeX engine
+)
+(f:/texlive/2025/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(f:/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(f:/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks29
+\pgfutil@tempdima=\dimen149
+\pgfutil@tempdimb=\dimen150
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box53
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(f:/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(f:/texlive/2025/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
+
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.co
+de.tex
+\pgfkeys@tmptoks=\toks32
+))
+\pgf@x=\dimen151
+\pgf@y=\dimen152
+\pgf@xa=\dimen153
+\pgf@ya=\dimen154
+\pgf@xb=\dimen155
+\pgf@yb=\dimen156
+\pgf@xc=\dimen157
+\pgf@yc=\dimen158
+\pgf@xd=\dimen159
+\pgf@yd=\dimen160
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count329
+\c@pgf@countb=\count330
+\c@pgf@countc=\count331
+\c@pgf@countd=\count332
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
+\pgf@sys@id@count=\count333
+ (f:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
+
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)
+\pgfsys@objnum=\count334
+)))
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count335
+\pgfsyssoftpath@bigbuffer@items=\count336
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (f:/texlive/2025/texmf-dist/tex/xelatex/bidi/pgfsys-xetex-bidi.def
+File: pgfsys-xetex-bidi.def 2025/01/05 v0.1 bidi adaptations for pgfsys package
+ for XeTeX engine
+)
+(f:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(f:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(f:/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(f:/texlive/2025/texmf-dist/tex/xelatex/bidi/xcolor-xetex-bidi.def
+File: xcolor-xetex-bidi.def 2022/06/13 v0.3 bidi adaptations for xcolor package
+ for XeTeX engine
+LaTeX Info: Redefining \color on input line 48.
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen161
+\pgfmath@count=\count337
+\pgfmath@box=\box54
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
+x)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
+.code.tex)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
+ex)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
+de.tex)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
+x)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
+etics.code.tex)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count338
+))
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen162
+\pgf@picmaxx=\dimen163
+\pgf@picminy=\dimen164
+\pgf@picmaxy=\dimen165
+\pgf@pathminx=\dimen166
+\pgf@pathmaxx=\dimen167
+\pgf@pathminy=\dimen168
+\pgf@pathmaxy=\dimen169
+\pgf@xx=\dimen170
+\pgf@xy=\dimen171
+\pgf@yx=\dimen172
+\pgf@yy=\dimen173
+\pgf@zx=\dimen174
+\pgf@zy=\dimen175
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
+e.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen176
+\pgf@path@lasty=\dimen177
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
+x
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen178
+\pgf@shorten@start@additional=\dimen179
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
+\pgf@picture@serial@count=\count339
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
+.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen180
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
+ode.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen181
+\pgf@pt@y=\dimen182
+\pgf@pt@temp=\dimen183
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
+de.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen184
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen185
+\pgf@sys@shading@range@num=\count340
+\pgf@shadingcount=\count341
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box58
+) (f:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
+.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (f:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (f:/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
+x
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box59
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(f:/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
+y
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen186
+\pgf@nodesepend=\dimen187
+)
+(f:/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+y
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (f:/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(f:/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(f:/texlive/2025/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen188
+\pgffor@skip=\dimen189
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+))
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
+de.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count342
+\pgfplotmarksize=\dimen190
+)
+\tikz@lastx=\dimen191
+\tikz@lasty=\dimen192
+\tikz@lastxsaved=\dimen193
+\tikz@lastysaved=\dimen194
+\tikz@lastmovetox=\dimen195
+\tikz@lastmovetoy=\dimen196
+\tikzleveldistance=\dimen197
+\tikzsiblingdistance=\dimen198
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count343
+\tikznumberofchildren=\count344
+\tikznumberofcurrentchild=\count345
+\tikz@fig@count=\count346
+
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count347
+\pgfmatrixcurrentcolumn=\count348
+\pgf@matrix@numberofcolumns=\count349
+)
+\tikz@expandcount=\count350
+
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks41
+\t@pgfplots@tokb=\toks42
+\t@pgfplots@tokc=\toks43
+\pgfplots@tmpa=\dimen199
+\c@pgfplots@coordindex=\count351
+\c@pgfplots@scanlineindex=\count352
+
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.te
+x))
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex)
+
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfs
+upp_loader.code.tex
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks44
+\t@pgf@tokb=\toks45
+\t@pgf@tokc=\toks46
+
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfs
+upp_pgfutil-common-lists.tex))
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststru
+cture.code.tex)
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststru
+ctureext.code.tex)
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.co
+de.tex
+\c@pgfplotsarray@tmp=\count353
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.c
+ode.tex)
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.c
+ode.tex
+\c@pgfplotstable@counta=\count354
+\t@pgfplotstable@a=\toks47
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.co
+de.tex)
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.
+tex))
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.te
+x)
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfsh
+ading.code.tex
+\c@pgfplotslibrarysurf@no=\count355
+
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfsha
+ding.pgfsys-xetex.def
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfsha
+ding.pgfsys-dvipdfmx.def
+\c@pgfplotslibrarysurf@streamlen=\count356
+))))
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex))
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex)
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.t
+ex
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex
+))) (f:/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
+
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.t
+ex)
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex)
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex)
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.code.tex
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.t
+ex
+\pgfdecoratedcompleteddistance=\dimen256
+\pgfdecoratedremainingdistance=\dimen257
+\pgfdecoratedinputsegmentcompleteddistance=\dimen258
+\pgfdecoratedinputsegmentremainingdistance=\dimen259
+\pgf@decorate@distancetomove=\dimen260
+\pgf@decorate@repeatstate=\count357
+\pgfdecorationsegmentamplitude=\dimen261
+\pgfdecorationsegmentlength=\dimen262
+)
+\tikz@lib@dec@box=\box64
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.pathmorphing.code.tex
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
+orations.pathmorphing.code.tex))
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.pathreplacing.code.tex
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
+orations.pathreplacing.code.tex))
+(f:/texlive/2025/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.conto
+urlua.code.tex)
+\pgfplots@numplots=\count358
+\pgfplots@xmin@reg=\dimen263
+\pgfplots@xmax@reg=\dimen264
+\pgfplots@ymin@reg=\dimen265
+\pgfplots@ymax@reg=\dimen266
+\pgfplots@zmin@reg=\dimen267
+\pgfplots@zmax@reg=\dimen268
+)
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(f:/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.
+tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+
+LaTeX Info: Redefining \latinfont on input line 7.
+ (f:/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(f:/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(f:/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks48
+\ex@=\dimen269
+))
+(f:/texlive/2025/texmf-dist/tex/xelatex/bidi/amstext-xetex-bidi.def
+File: amstext-xetex-bidi.def 2016/09/12 v0.2 bidi adaptations for amstext packa
+ge for XeTeX engine
+)
+(f:/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen270
+)
+(f:/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count359
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count360
+\leftroot@=\count361
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count362
+\DOTSCASE@=\count363
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box65
+\strutbox@=\box66
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen271
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count364
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count365
+\dotsspace@=\muskip17
+\c@parentequation=\count366
+\dspbrk@lvl=\count367
+\tag@help=\toks49
+\row@=\count368
+\column@=\count369
+\maxfields@=\count370
+\andhelp@=\toks50
+\eqnshift@=\dimen272
+\alignsep@=\dimen273
+\tagshift@=\dimen274
+\tagwidth@=\dimen275
+\totwidth@=\dimen276
+\lineht@=\dimen277
+\@envbody=\toks51
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks52
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(f:/texlive/2025/texmf-dist/tex/xelatex/bidi/amsmath-xetex-bidi.def
+File: amsmath-xetex-bidi.def 2020/05/16 v1.2 bidi adaptations for amsmath packa
+ge for XeTeX engine
+)
+(f:/texlive/2025/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(f:/texlive/2025/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(f:/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen278
+\captionmargin=\dimen279
+\caption@leftmargin=\dimen280
+\caption@rightmargin=\dimen281
+\caption@width=\dimen282
+\caption@indent=\dimen283
+\caption@parindent=\dimen284
+\caption@hangindent=\dimen285
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
+p \sbox \@tempboxa {#1: #2}\ifdim \wd \@tempboxa >\hsize \if@RTL \beginR \fi #1
+: #2\if@RTL \endR \fi \par \else \global \@minipagefalse \hb@xt@ \hsize {\if@RT
+L \beginR \fi \hfil \box \@tempboxa \hfil \if@RTL \endR \fi }\fi \vskip \belowc
+aptionskip  on input line 1175.
+)
+(f:/texlive/2025/texmf-dist/tex/xelatex/bidi/caption3-xetex-bidi.def
+File: caption3-xetex-bidi.def 2013/04/01 v0.1 bidi adaptations for caption3 pac
+kage for XeTeX engine
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count371
+\c@continuedfloat=\count372
+) (f:/texlive/2025/texmf-dist/tex/xelatex/bidi/caption-xetex-bidi.def
+File: caption-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for caption packa
+ge for XeTeX engine
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count373
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count374
+)
+(f:/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip54
+\enit@outerparindent=\dimen286
+\enit@toks=\toks53
+\enit@inbox=\box67
+\enit@count@id=\count375
+\enitdp@description=\count376
+)
+(f:/texlive/2025/texmf-dist/tex/xelatex/xepersian/enumitem-xetex-xepersian.def
+File: enumitem-xetex-xepersian.def 2017/09/06 v0.1 xepersian adaptations for en
+umitem package for XeTeX engine
+) (f:/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(f:/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count377
+\Gm@cntv=\count378
+\c@Gm@tempcnt=\count379
+\Gm@bindingoffset=\dimen287
+\Gm@wd@mp=\dimen288
+\Gm@odd@mp=\dimen289
+\Gm@even@mp=\dimen290
+\Gm@layoutwidth=\dimen291
+\Gm@layoutheight=\dimen292
+\Gm@layouthoffset=\dimen293
+\Gm@layoutvoffset=\dimen294
+\Gm@dimlist=\toks54
+)
+(f:/texlive/2025/texmf-dist/tex/xelatex/bidi/geometry-xetex-bidi.def
+File: geometry-xetex-bidi.def 2017/01/14 v0.2 bidi adaptations for geometry pac
+kage for XeTeX engine
+)
+(f:/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.sty
+(f:/texlive/2025/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count380
+\l__lipsum_a_int=\count381
+\l__lipsum_b_int=\count382
+
+(f:/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (./document1.aux
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_label' multiply defined.
+
+)
+\openout1 = `document1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+File: vru/vru.png Graphic file (type bmp)
+<vru/vru.png>
+
+
+[1
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* v-part:(T,H,B)=(56.9055pt, 759.6886pt, 28.45274pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=540.60239pt
+* \textheight=759.6886pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (./document1.toc)
+\tf@toc=\write4
+\openout4 = `document1.toc'.
+
+
+
+[1
+
+]
+Overfull \hbox (0.59805pt too wide) in paragraph at lines 35--41
+[]\TU/BNazanin(0)/m/n/12 یادگیری ماشین ([]\TU/TimesNewRoman(0)/m/n/12 Machine L
+earning[]\TU/BNazanin(0)/m/n/12 ) در سال‌های اخیر پیشرفت‌های چشمگیری داشته و در
+ حوزه‌های مختلف کاربردهای پیشرفته‌ای[]
+ []
+
+
+
+[2
+
+]
+\endL or \endR problem (2 missing, 0 extra) detected at line 160
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 160
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 163
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 163
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 165
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 165
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 168
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 168
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 171
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 171
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 175
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 175
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 176
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 176
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 177
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 177
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 183
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 183
+[][][] [][][][][]
+ []
+
+
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 231--239
+[][]
+ []
+
+
+
+[4]
+
+[5]
+\endL or \endR problem (2 missing, 0 extra) detected at line 361
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 361
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 362
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 362
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 363
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 363
+[][][] [][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--384
+[][]
+ []
+
+
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 412--413
+[][]
+ []
+
+File: best_fitted_line.png Graphic file (type bmp)
+<best_fitted_line.png>
+
+LaTeX Warning: Reference `fig:sample' on page 7 undefined on input line 423.
+
+File: best_fitted_polynomial.png Graphic file (type bmp)
+<best_fitted_polynomial.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--444
+[][]
+ []
+
+
+
+[7]
+\endL or \endR problem (2 missing, 0 extra) detected at line 445
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 445
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 446
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 446
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 447
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 447
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 448
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 448
+[][][] [][][][][]
+ []
+
+
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 507--509
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 512--517
+[][]
+ []
+
+
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 542--543
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--543
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--543
+[][]
+ []
+
+File: gd1.png Graphic file (type bmp)
+<gd1.png>
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 554
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 554
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 555
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 555
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 556
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 556
+[][][] [][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
+[][]
+ []
+
+File: sigmodfunctiongrapik.png Graphic file (type bmp)
+<sigmodfunctiongrapik.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 570--579
+[][]
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[10]
+File: functionsigmod.jpg Graphic file (type bmp)
+<functionsigmod.jpg>
+
+
+[11]
+
+[12]
+Missing character: There is no t (U+0074) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+File: r1.png Graphic file (type bmp)
+<r1.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--731
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--731
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--731
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--731
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--731
+[][]
+ []
+
+File: r2.png Graphic file (type bmp)
+<r2.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 741--742
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 748--760
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 748--760
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 748--760
+[][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 768
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 768
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 769
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 769
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 770
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 770
+[][][] [][][][][]
+ []
+
+
+
+[14]
+\endL or \endR problem (2 missing, 0 extra) detected at line 776
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 776
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 781
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 781
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 786
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 786
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 793
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 793
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 794
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 794
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 795
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 795
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 796
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 796
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 797
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 797
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 802
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 802
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 803
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 803
+[][][] [][][][][]
+ []
+
+Missing character: There is no K (U+004B) in font B Nazanin Bold/OT:language=df
+lt;script=arab;mapping=persian-tex-text;!
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 804
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 804
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 805
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 805
+[][][] [][][][][]
+ []
+
+File: kmeans_iter_1.png Graphic file (type bmp)
+<kmeans_iter_1.png>
+File: kmeans_iter_2.png Graphic file (type bmp)
+<kmeans_iter_2.png>
+File: kmeans_iter_3.png Graphic file (type bmp)
+<kmeans_iter_3.png>
+File: kmeans_iter_4.png Graphic file (type bmp)
+<kmeans_iter_4.png>
+File: kmeans_iter_5.png Graphic file (type bmp)
+<kmeans_iter_5.png>
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 828
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 828
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 829
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 829
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 833
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 833
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 834
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 834
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 842
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 842
+[][][] [][][][][]
+ []
+
+
+
+[15]
+\endL or \endR problem (2 missing, 0 extra) detected at line 846
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 846
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 847
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 847
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 848
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 848
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 849
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 849
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 850
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 850
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 854
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 854
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 860
+ [][][]$$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 860
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 861
+ [][][]$$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 861
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 865
+ [][][]$$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 865
+[][][] [][][][][]
+ []
+
+Missing character: There is no n (U+006E) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no e (U+0065) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no w (U+0077) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no n (U+006E) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no e (U+0065) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no w (U+0077) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no n (U+006E) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no e (U+0065) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no w (U+0077) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no n (U+006E) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no e (U+0065) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no w (U+0077) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no o (U+006F) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no l (U+006C) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no d (U+0064) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no o (U+006F) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no l (U+006C) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no d (U+0064) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no o (U+006F) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no l (U+006C) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no d (U+0064) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no o (U+006F) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no l (U+006C) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no d (U+0064) in font B Nazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 868
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 868
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 869
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 869
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 870
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 870
+[][][] [][][][][]
+ []
+
+File: kmeans_iter_6.png Graphic file (type bmp)
+<kmeans_iter_6.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[16]
+
+[17] (./document1.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 30623 strings out of 473831
+ 819715 string characters out of 5733138
+ 1387454 words of memory out of 5000000
+ 53151 multiletter control sequences out of 15000+600000
+ 562551 words of font info for 86 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 99i,15n,107p,1143b,479s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on document1.pdf (18 pages).
