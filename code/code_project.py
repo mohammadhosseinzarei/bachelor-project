@@ -120,3 +120,92 @@ h=Rel.calc_h(XX,theta)
 cost=Rel.cost_function()
 print(XX)
 
+# k-means
+import numpy as np
+import matplotlib.pyplot as plt
+
+# --- تابع میانگین مرکز خوشه (از خودت) ---
+def centroid(x):
+    length_x = x.shape[0]
+    sum_x = np.sum(x, axis=0)
+    return sum_x / length_x
+
+# --- تابع فاصله اقلیدسی از صفر ---
+def euclidean_distance(a, b):
+    dist = 0
+    for i in range(len(a)):
+        dist += (a[i] - b[i]) ** 2
+    return dist ** 0.5
+
+# --- تابع پیدا کردن نزدیک‌ترین مرکز خوشه (کاملاً فرام اسکرچ) ---
+def closest_centroid(x, centroids):
+    min_dist = float('inf')
+    closest_index = -1
+
+    for i in range(len(centroids)):
+        dist = euclidean_distance(x, centroids[i])
+        if dist < min_dist:
+            min_dist = dist
+            closest_index = i
+    return closest_index
+
+# --- کلاس KMeans از صفر ---
+class KMeans:
+    def __init__(self, k=3, max_iters=100):
+        self.k = k
+        self.max_iters = max_iters
+        self.centroids = None
+
+    def fit(self, X):
+        # انتخاب تصادفی مراکز اولیه
+        random_indices = np.random.choice(X.shape[0], self.k, replace=False)
+        self.centroids = X[random_indices]
+
+        for _ in range(self.max_iters):
+            # اختصاص هر نقطه به نزدیک‌ترین مرکز
+            labels = []
+            for point in X:
+                c = closest_centroid(point, self.centroids)
+                labels.append(c)
+            labels = np.array(labels)
+
+            # به‌روزرسانی مراکز خوشه با تابع centroid()
+            new_centroids = []
+            for i in range(self.k):
+                cluster_points = X[labels == i]
+                if len(cluster_points) > 0:
+                    new_centroids.append(centroid(cluster_points))
+                else:
+                    new_centroids.append(self.centroids[i])  # اگر خوشه خالی بود، همان مرکز قبلی حفظ شود
+            new_centroids = np.array(new_centroids)
+
+            # بررسی همگرایی
+            if np.allclose(self.centroids, new_centroids):
+                break
+
+            self.centroids = new_centroids
+
+        self.labels_ = labels
+
+    def predict(self, X):
+        preds = []
+        for point in X:
+            preds.append(closest_centroid(point, self.centroids))
+        return np.array(preds)
+
+# --- تست الگوریتم ---
+from sklearn.datasets import make_blobs
+
+X, _ = make_blobs(n_samples=300, centers=3, random_state=42)
+
+kmeans = KMeans(k=3)
+kmeans.fit(X)
+
+# --- نمایش نتایج ---
+plt.scatter(X[:, 0], X[:, 1], c=kmeans.labels_, cmap='viridis')
+plt.scatter(kmeans.centroids[:, 0], kmeans.centroids[:, 1], c='red', marker='x', s=200)
+plt.title("K-Means Clustering (Fully From Scratch)")
+plt.show()
+
+
+
