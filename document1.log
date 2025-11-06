@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.1)  5 NOV 2025 17:10
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.1)  6 NOV 2025 12:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -967,7 +967,24 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \l__lipsum_a_int=\count381
 \l__lipsum_b_int=\count382
 
-(f:/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (./document1.aux
+(f:/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(f:/texlive/2025/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count383
+\float@exts=\toks55
+\float@box=\box68
+\@float@everytoks=\toks56
+\@floatcapt=\box69
+)
+(f:/texlive/2025/texmf-dist/tex/xelatex/bidi/float-xetex-bidi.def
+File: float-xetex-bidi.def 2013/04/04 v0.2 bidi adaptations for float package f
+or XeTeX engine
+)
+(f:/texlive/2025/texmf-dist/tex/xelatex/bidi/float-xetex-bidi.def
+File: float-xetex-bidi.def 2013/04/04 v0.2 bidi adaptations for float package f
+or XeTeX engine
+)
+(./document1.aux
 
 LaTeX Warning: Label `fig:my_label' multiply defined.
 
@@ -995,27 +1012,28 @@ LaTeX Warning: Label `fig:my_label' multiply defined.
 )
 \openout1 = `document1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1099,7 +1117,7 @@ File: vru/vru.png Graphic file (type bmp)
 [1
 
 ]
-Overfull \hbox (0.59805pt too wide) in paragraph at lines 35--41
+Overfull \hbox (0.59805pt too wide) in paragraph at lines 36--42
 []\TU/BNazanin(0)/m/n/12 یادگیری ماشین ([]\TU/TimesNewRoman(0)/m/n/12 Machine L
 earning[]\TU/BNazanin(0)/m/n/12 ) در سال‌های اخیر پیشرفت‌های چشمگیری داشته و در
  حوزه‌های مختلف کاربردهای پیشرفته‌ای[]
@@ -1110,62 +1128,52 @@ earning[]\TU/BNazanin(0)/m/n/12 ) در سال‌های اخیر پیشرفت‌�
 [2
 
 ]
-\endL or \endR problem (2 missing, 0 extra) detected at line 160
+\endL or \endR problem (2 missing, 0 extra) detected at line 161
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 160
+\endL or \endR problem (0 missing, 2 extra) detected at line 161
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 163
+\endL or \endR problem (2 missing, 0 extra) detected at line 164
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 163
+\endL or \endR problem (0 missing, 2 extra) detected at line 164
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 165
+\endL or \endR problem (2 missing, 0 extra) detected at line 166
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 165
+\endL or \endR problem (0 missing, 2 extra) detected at line 166
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 168
+\endL or \endR problem (2 missing, 0 extra) detected at line 169
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 168
+\endL or \endR problem (0 missing, 2 extra) detected at line 169
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 171
+\endL or \endR problem (2 missing, 0 extra) detected at line 172
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 171
-[][][] [][][][][]
- []
-
-
-\endL or \endR problem (2 missing, 0 extra) detected at line 175
- [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 175
+\endL or \endR problem (0 missing, 2 extra) detected at line 172
 [][][] [][][][][]
  []
 
@@ -1190,19 +1198,29 @@ earning[]\TU/BNazanin(0)/m/n/12 ) در سال‌های اخیر پیشرفت‌�
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 183
+\endL or \endR problem (2 missing, 0 extra) detected at line 178
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 183
+\endL or \endR problem (0 missing, 2 extra) detected at line 178
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 184
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 184
 [][][] [][][][][]
  []
 
 
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 231--239
+Underfull \hbox (badness 10000) in paragraph at lines 232--240
 [][]
  []
 
@@ -1211,16 +1229,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 231--239
 [4]
 
 [5]
-\endL or \endR problem (2 missing, 0 extra) detected at line 361
- [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 361
-[][][] [][][][][]
- []
-
-
 \endL or \endR problem (2 missing, 0 extra) detected at line 362
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
@@ -1241,42 +1249,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 231--239
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--384
+\endL or \endR problem (2 missing, 0 extra) detected at line 364
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 364
+[][][] [][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--385
 [][]
  []
 
 
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 412--413
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
 [][]
  []
 
 File: best_fitted_line.png Graphic file (type bmp)
 <best_fitted_line.png>
 
-LaTeX Warning: Reference `fig:sample' on page 7 undefined on input line 423.
+LaTeX Warning: Reference `fig:sample' on page 7 undefined on input line 424.
 
 File: best_fitted_polynomial.png Graphic file (type bmp)
 <best_fitted_polynomial.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 439--444
+Underfull \hbox (badness 10000) in paragraph at lines 440--445
 [][]
  []
 
 
 
 [7]
-\endL or \endR problem (2 missing, 0 extra) detected at line 445
- [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 445
-[][][] [][][][][]
- []
-
-
 \endL or \endR problem (2 missing, 0 extra) detected at line 446
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
@@ -1307,46 +1315,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 439--444
  []
 
 
+\endL or \endR problem (2 missing, 0 extra) detected at line 449
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 449
+[][][] [][][][][]
+ []
+
+
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 507--509
+Underfull \hbox (badness 10000) in paragraph at lines 508--510
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 512--517
+Underfull \hbox (badness 10000) in paragraph at lines 513--518
 [][]
  []
 
 
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 542--543
+Underfull \hbox (badness 10000) in paragraph at lines 543--544
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 542--543
+Underfull \hbox (badness 10000) in paragraph at lines 543--544
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 542--543
+Underfull \hbox (badness 10000) in paragraph at lines 543--544
 [][]
  []
 
 File: gd1.png Graphic file (type bmp)
 <gd1.png>
-
-\endL or \endR problem (2 missing, 0 extra) detected at line 554
- [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 554
-[][][] [][][][][]
- []
-
 
 \endL or \endR problem (2 missing, 0 extra) detected at line 555
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
@@ -1368,14 +1376,24 @@ File: gd1.png Graphic file (type bmp)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 556--557
+\endL or \endR problem (2 missing, 0 extra) detected at line 557
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 557
+[][][] [][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 557--558
 [][]
  []
 
 File: sigmodfunctiongrapik.png Graphic file (type bmp)
 <sigmodfunctiongrapik.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 570--579
+Underfull \hbox (badness 10000) in paragraph at lines 571--580
 [][]
  []
 
@@ -1397,27 +1415,27 @@ ript=arab;mapping=persian-tex-text;!
 File: r1.png Graphic file (type bmp)
 <r1.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 709--731
+Underfull \hbox (badness 10000) in paragraph at lines 710--732
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 709--731
+Underfull \hbox (badness 10000) in paragraph at lines 710--732
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 709--731
+Underfull \hbox (badness 10000) in paragraph at lines 710--732
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 709--731
+Underfull \hbox (badness 10000) in paragraph at lines 710--732
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 709--731
+Underfull \hbox (badness 10000) in paragraph at lines 710--732
 [][]
  []
 
@@ -1429,33 +1447,23 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 741--742
+Underfull \hbox (badness 10000) in paragraph at lines 742--743
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 748--760
+Underfull \hbox (badness 10000) in paragraph at lines 749--761
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 748--760
+Underfull \hbox (badness 10000) in paragraph at lines 749--761
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 748--760
+Underfull \hbox (badness 10000) in paragraph at lines 749--761
 [][]
- []
-
-
-\endL or \endR problem (2 missing, 0 extra) detected at line 768
- [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 768
-[][][] [][][][][]
  []
 
 
@@ -1479,44 +1487,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 748--760
  []
 
 
+\endL or \endR problem (2 missing, 0 extra) detected at line 771
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 771
+[][][] [][][][][]
+ []
+
+
 
 [14]
-\endL or \endR problem (2 missing, 0 extra) detected at line 776
+\endL or \endR problem (2 missing, 0 extra) detected at line 777
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 776
+\endL or \endR problem (0 missing, 2 extra) detected at line 777
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 781
+\endL or \endR problem (2 missing, 0 extra) detected at line 782
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 781
+\endL or \endR problem (0 missing, 2 extra) detected at line 782
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 786
+\endL or \endR problem (2 missing, 0 extra) detected at line 787
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 786
-[][][] [][][][][]
- []
-
-
-\endL or \endR problem (2 missing, 0 extra) detected at line 793
- [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 793
+\endL or \endR problem (0 missing, 2 extra) detected at line 787
 [][][] [][][][][]
  []
 
@@ -1561,12 +1569,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 748--760
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 802
+\endL or \endR problem (2 missing, 0 extra) detected at line 798
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 802
+\endL or \endR problem (0 missing, 2 extra) detected at line 798
 [][][] [][][][][]
  []
 
@@ -1580,8 +1588,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 748--760
 [][][] [][][][][]
  []
 
-Missing character: There is no K (U+004B) in font B Nazanin Bold/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
 
 \endL or \endR problem (2 missing, 0 extra) detected at line 804
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
@@ -1592,6 +1598,8 @@ lt;script=arab;mapping=persian-tex-text;!
 [][][] [][][][][]
  []
 
+Missing character: There is no K (U+004B) in font B Nazanin Bold/OT:language=df
+lt;script=arab;mapping=persian-tex-text;!
 
 \endL or \endR problem (2 missing, 0 extra) detected at line 805
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
@@ -1599,6 +1607,16 @@ lt;script=arab;mapping=persian-tex-text;!
 
 
 \endL or \endR problem (0 missing, 2 extra) detected at line 805
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 806
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 806
 [][][] [][][][][]
  []
 
@@ -1613,16 +1631,6 @@ File: kmeans_iter_4.png Graphic file (type bmp)
 File: kmeans_iter_5.png Graphic file (type bmp)
 <kmeans_iter_5.png>
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 828
- [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 828
-[][][] [][][][][]
- []
-
-
 \endL or \endR problem (2 missing, 0 extra) detected at line 829
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
@@ -1633,12 +1641,12 @@ File: kmeans_iter_5.png Graphic file (type bmp)
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 833
+\endL or \endR problem (2 missing, 0 extra) detected at line 830
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 833
+\endL or \endR problem (0 missing, 2 extra) detected at line 830
 [][][] [][][][][]
  []
 
@@ -1653,28 +1661,28 @@ File: kmeans_iter_5.png Graphic file (type bmp)
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 842
+\endL or \endR problem (2 missing, 0 extra) detected at line 835
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 842
+\endL or \endR problem (0 missing, 2 extra) detected at line 835
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 843
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 843
 [][][] [][][][][]
  []
 
 
 
 [15]
-\endL or \endR problem (2 missing, 0 extra) detected at line 846
- [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 846
-[][][] [][][][][]
- []
-
-
 \endL or \endR problem (2 missing, 0 extra) detected at line 847
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
@@ -1715,28 +1723,28 @@ File: kmeans_iter_5.png Graphic file (type bmp)
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 854
+\endL or \endR problem (2 missing, 0 extra) detected at line 851
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 854
+\endL or \endR problem (0 missing, 2 extra) detected at line 851
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 860
- [][][]$$[][]
+\endL or \endR problem (2 missing, 0 extra) detected at line 855
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 860
+\endL or \endR problem (0 missing, 2 extra) detected at line 855
 [][][] [][][][][]
  []
 
 
 \endL or \endR problem (2 missing, 0 extra) detected at line 861
- [][][]$$[][]
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
@@ -1745,98 +1753,57 @@ File: kmeans_iter_5.png Graphic file (type bmp)
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 865
- [][][]$$[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 865
-[][][] [][][][][]
- []
-
-Missing character: There is no n (U+006E) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no e (U+0065) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no w (U+0077) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no n (U+006E) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no e (U+0065) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no w (U+0077) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no n (U+006E) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no e (U+0065) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no w (U+0077) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no n (U+006E) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no e (U+0065) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no w (U+0077) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no o (U+006F) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no l (U+006C) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no d (U+0064) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no o (U+006F) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no l (U+006C) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no d (U+0064) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no o (U+006F) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no l (U+006C) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no d (U+0064) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no o (U+006F) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no l (U+006C) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no d (U+0064) in font B Nazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-
-\endL or \endR problem (2 missing, 0 extra) detected at line 868
+\endL or \endR problem (2 missing, 0 extra) detected at line 863
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 868
+\endL or \endR problem (0 missing, 2 extra) detected at line 863
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 869
+\endL or \endR problem (2 missing, 0 extra) detected at line 871
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 869
+\endL or \endR problem (0 missing, 2 extra) detected at line 871
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 870
+\endL or \endR problem (2 missing, 0 extra) detected at line 873
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 870
+\endL or \endR problem (0 missing, 2 extra) detected at line 873
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 875
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 875
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 877
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 877
 [][][] [][][][][]
  []
 
 File: kmeans_iter_6.png Graphic file (type bmp)
 <kmeans_iter_6.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 
 
 [16]
@@ -1855,11 +1822,11 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 30623 strings out of 473831
- 819715 string characters out of 5733138
- 1387454 words of memory out of 5000000
- 53151 multiletter control sequences out of 15000+600000
- 562551 words of font info for 86 fonts, out of 8000000 for 9000
+ 30694 strings out of 473831
+ 821122 string characters out of 5733138
+ 1389611 words of memory out of 5000000
+ 53211 multiletter control sequences out of 15000+600000
+ 562567 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,15n,107p,1143b,479s stack positions out of 10000i,1000n,20000p,200000b,200000s
 

@@ -10,6 +10,7 @@
 \usepackage{enumitem}
 \usepackage[a4paper, margin=2cm]{geometry} 
 \usepackage{lipsum}
+\usepackage{float}
 \begin{document}
 \begin{titlepage}
 	\begin{figure}[h]
@@ -433,7 +434,7 @@
  \begin{figure}
 	\centering
 	\includegraphics[width=0.5\textwidth]{best_fitted_polynomial}
-	\caption{استفاده از رگرسیون خطی با که باعث نویز شده است.}
+	\caption{استفاده نمودار غیر خطی .}
 	\label{fig:my_label}
 \end{figure}
 همان طور که در تصویر بالا مشاهده می شود زمانی که درجه را زیاد می کنیم باعث می شود که نمودار به سمت چند جمله برود در نهایت خطایی مدل ما خیلی کاهش یابد و از  
@@ -856,27 +857,31 @@ $\lambda $ یک پارامتر تنظیم
  	\mu_j = \frac{\sum_{x^{(i)} \in C_j} x^{(i)}}{|C_j|}
  	\]
  \end{itemize}
- \begin{itemize}[label={\color{black}$$}]
- 	\item برای هر خوشه، میانگین نمونه‌های آن فاصله‌های مربعی را کمینه می‌کند.
- 	\item برای خوشه $C_j$، اگر $\mu'_j$ مرکز قبلی باشد، داریم:
- 	\[
- 	\sum_{x^{(i)} \in C_j} \|x^{(i)} - \mu'_j\|^2 \geq \sum_{x^{(i)} \in C_j} \|x^{(i)} - \mu_j\|^2
- 	\]
- 	\item بنابراین، $J_{\text{new}} \leq J_{\text{old}}$.
- \end{itemize}
- \begin{itemize}[label={\color{black}$\bullet$}]
- 	\item تابع $J$ غیرمنفی است و تعداد تقسیم‌بندی‌های ممکن محدود است، بنابراین $J$ دارای یک کمینه است و نمی‌توان $J$ را تا بی‌نهایت کاهش داد.
- 	\item در نتیجه، الگوریتم در نهایت همگرا می‌شود.
- 	\item ویژگی‌های همگرایی الگوریتم \lr{K-Means} توسط مک‌کوئین \lr{(MacQueen)} در سال 1967 بررسی شد.
- \end{itemize}
- \begin{figure}[h]
- 	\centering
- 	\includegraphics[width=0.5\textwidth]{kmeans_iter_6.png}
- 	\caption{نمودار تابع لجسیتک}
- 	\label{fig:my_label}
- \end{figure}
- تابع 
+\begin{itemize}[label={\color{black}$\bullet$}]
+	\item برای هر خوشه، میانگین نقاط آن خوشه مقدار مجموع فاصله‌های مربعی را کمینه می‌کند.
+	
+	\item برای خوشه‌ی $C_j$، اگر $\mu'_j$ مرکز قبلی باشد، داریم:
+	\[
+	\sum_{x^{(i)} \in C_j} \|x^{(i)} - \mu'_j\|^2 
+	\;\ge\; 
+	\sum_{x^{(i)} \in C_j} \|x^{(i)} - \mu_j\|^2
+	\]
+	یعنی انتخاب میانگین جدید هرگز مقدار خطا را افزایش نمی‌دهد.
+	
+	\item در نتیجه، $J_{\text{\lr{new}}} \le J_{\text{\lr{old}}}$ خواهد بود.
+	
+	\item از آنجایی که تابع هزینه $J$ غیرمنفی است و تعداد تقسیم‌بندی‌های ممکن نیز محدود می‌باشد، دنباله مقادیر $J$ نمی‌تواند تا بی‌نهایت کاهش یابد.
+	
+	\item بنابراین الگوریتم \lr{K-Means} در نهایت همگرا می‌شود.
+	
+	\item ویژگی‌های همگرایی الگوریتم \lr{K-Means} نخستین‌بار توسط مک‌کوئین \lr{(MacQueen)} در سال 1967 بررسی شد.
+\end{itemize}
  \lr{cost}
- همان طوری که در تصویر مشاهده می شود در نهایت کمتر و کمتر می شود. و به یک نقطه صفر می رسد که بهترین جواب را پیدا خواهد کرد. 
-
+ همان طوری که در تصویر مشاهده می شود در نهایت کمتر و کمتر می شود. و به یک نقطه صفر می رسد که بهترین جواب را پیدا خواهد کرد.
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.5\textwidth]{kmeans_iter_6.png}
+	\caption{نمودار تابع هزینه در \lr{k-means}}
+	\label{fig:my_label}
+\end{figure}
 \end{document}
