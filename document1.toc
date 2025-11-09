@@ -2,7 +2,7 @@
 \contentsline {section}{\numberline {2}انواع یادگیری}{3}{}%
 \contentsline {subsection}{\numberline {2.1}رگرسیون در یادگیری نظارت شده}{4}{}%
 \contentsline {subsubsection}{\numberline {2.1.1}رگرسیون خطی ساده}{4}{}%
-\contentsline {subsubsection}{\numberline {2.1.2}رگرسیون خطی چند متغیره}{5}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}رگرسیون خطی چند متغیره}{6}{}%
 \contentsline {subsubsection}{\numberline {2.1.3}گرادیان(\lr {gradeint})}{9}{}%
 \contentsline {subsubsection}{\numberline {2.1.4}رگرسیون لجستیک}{10}{}%
 \contentsline {subsubsection}{\numberline {2.1.5}نظم‌دهی \lr {(Regularization)}}{12}{}%
