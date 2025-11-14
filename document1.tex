@@ -473,7 +473,7 @@ $$w_j := w_j + \alpha \frac{2}{n} \sum_{i=1}^n (y_i - \hat{y}_i) x_{ij}$$\\\\\\
 
 می توان تابع لجستیک را به این شکل تعریف کرد. 
 \[
-\hat{Y}=\sigma (X)=\sigma(x_{0}w_{0} +x_{1}w_{1}+...+x_{n}w_{n})\\
+\hat{Y}=\sigma (z)=\sigma(x_{0}w_{0} +x_{1}w_{1}+...+x_{n}w_{n})\\
 \]
 \begin{figure}[h]
 	\centering
@@ -487,10 +487,10 @@ $$w_j := w_j + \alpha \frac{2}{n} \sum_{i=1}^n (y_i - \hat{y}_i) x_{ij}$$\\\\\\
 \sigma(z)=\frac{1}{1+e^{-z}}\\
 \]
 و همچنین در مورد مشقق پذیری 
-	\begin{align*}{h}
-		\lim_{x \rightarrow -\infty} \sigma(x)= \frac{1}{1 + {\infty}}=0 &\\
-		\lim_{x \rightarrow \infty} \sigma(x)= \frac{1}{1+0}=1&\\
-		\lim_{x \rightarrow 0} \sigma(x)= \frac{1}{1+1}=0.5\\
+	\begin{align*}
+		\lim_{z \rightarrow -\infty} \sigma(x)= \frac{1}{1 + {\infty}}=0 &\\
+		\lim_{z \rightarrow \infty} \sigma(x)= \frac{1}{1+0}=1&\\
+		\lim_{z \rightarrow 0} \sigma(x)= \frac{1}{1+1}=0.5\\
 	\end{align*}
 از آن جایی که 
 $-\infty<x<\infty$
