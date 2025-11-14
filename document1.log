@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.1)  13 NOV 2025 12:19
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.1)  14 NOV 2025 14:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1128,52 +1128,62 @@ earning[]\TU/BNazanin(0)/m/n/12 ) در سال‌های اخیر پیشرفت‌�
 [2
 
 ]
-\endL or \endR problem (2 missing, 0 extra) detected at line 161
+\endL or \endR problem (2 missing, 0 extra) detected at line 160
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 161
+\endL or \endR problem (0 missing, 2 extra) detected at line 160
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 164
+\endL or \endR problem (2 missing, 0 extra) detected at line 163
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 164
+\endL or \endR problem (0 missing, 2 extra) detected at line 163
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 166
+\endL or \endR problem (2 missing, 0 extra) detected at line 165
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 166
+\endL or \endR problem (0 missing, 2 extra) detected at line 165
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 169
+\endL or \endR problem (2 missing, 0 extra) detected at line 168
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 169
+\endL or \endR problem (0 missing, 2 extra) detected at line 168
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 172
+\endL or \endR problem (2 missing, 0 extra) detected at line 171
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 172
+\endL or \endR problem (0 missing, 2 extra) detected at line 171
+[][][] [][][][][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 175
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 175
 [][][] [][][][][]
  []
 
@@ -1198,39 +1208,29 @@ earning[]\TU/BNazanin(0)/m/n/12 ) در سال‌های اخیر پیشرفت‌�
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 178
+\endL or \endR problem (2 missing, 0 extra) detected at line 183
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 178
+\endL or \endR problem (0 missing, 2 extra) detected at line 183
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 184
- [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 184
-[][][] [][][][][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 184--198
+Underfull \hbox (badness 10000) in paragraph at lines 183--197
 [][]
  []
 
 
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 228--246
+Underfull \hbox (badness 10000) in paragraph at lines 227--245
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--252
+Underfull \hbox (badness 10000) in paragraph at lines 247--251
 [][]
  []
 
@@ -1239,6 +1239,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 248--252
 [4]
 
 [5]
+\endL or \endR problem (2 missing, 0 extra) detected at line 331
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 331
+[][][] [][][][][]
+ []
+
+
 \endL or \endR problem (2 missing, 0 extra) detected at line 332
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
@@ -1259,17 +1269,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 248--252
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 334
- [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 334
-[][][] [][][][][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 347--351
+Underfull \hbox (badness 10000) in paragraph at lines 346--350
 [][]
  []
 
@@ -1280,11 +1280,21 @@ File: best_fitted_line.png Graphic file (type bmp)
 <best_fitted_line.png>
 
 
-LaTeX Warning: Reference `fig:sample' on page 7 undefined on input line 379.
+LaTeX Warning: Reference `fig:sample' on page 7 undefined on input line 378.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 370--392
+Underfull \hbox (badness 10000) in paragraph at lines 369--391
 [][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 392
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 392
+[][][] [][][][][]
  []
 
 
@@ -1318,47 +1328,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 370--392
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 396
- [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 396
-[][][] [][][][][]
- []
-
-
 
 [7]
 File: best_fitted_polynomial.png Graphic file (type bmp)
 <best_fitted_polynomial.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 404--409
+Underfull \hbox (badness 10000) in paragraph at lines 403--408
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 422--447
+Underfull \hbox (badness 10000) in paragraph at lines 421--446
 [][]
  []
 
 
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 451--453
+Underfull \hbox (badness 10000) in paragraph at lines 450--452
 [][]
  []
 
 File: gd1.png Graphic file (type bmp)
 <gd1.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 453--463
+Underfull \hbox (badness 10000) in paragraph at lines 452--462
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 453--463
+Underfull \hbox (badness 10000) in paragraph at lines 452--462
 [][]
+ []
+
+
+\endL or \endR problem (2 missing, 0 extra) detected at line 463
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 463
+[][][] [][][][][]
  []
 
 
@@ -1382,38 +1392,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 453--463
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 466
- [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 466
-[][][] [][][][][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 466--467
+Underfull \hbox (badness 10000) in paragraph at lines 465--466
 [][]
  []
 
 
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 468--473
+Underfull \hbox (badness 10000) in paragraph at lines 467--472
 [][]
  []
 
 File: sigmodfunctiongrapik.png Graphic file (type bmp)
 <sigmodfunctiongrapik.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 478--487
+Underfull \hbox (badness 10000) in paragraph at lines 477--486
 [][]
  []
 
 File: functionsigmod.jpg Graphic file (type bmp)
 <functionsigmod.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--507
+Underfull \hbox (badness 10000) in paragraph at lines 494--506
 [][]
  []
 
@@ -1427,7 +1427,7 @@ File: r1.png Graphic file (type bmp)
 File: r2.png Graphic file (type bmp)
 <r2.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 603--631
+Underfull \hbox (badness 10000) in paragraph at lines 602--630
 [][]
  []
 
@@ -1437,28 +1437,38 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 632--634
+Underfull \hbox (badness 10000) in paragraph at lines 631--633
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 640--652
+Underfull \hbox (badness 10000) in paragraph at lines 639--651
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 640--652
+Underfull \hbox (badness 10000) in paragraph at lines 639--651
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 640--652
+Underfull \hbox (badness 10000) in paragraph at lines 639--651
 [][]
  []
 
 
 
 [13]
+\endL or \endR problem (2 missing, 0 extra) detected at line 660
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 660
+[][][] [][][][][]
+ []
+
+
 \endL or \endR problem (2 missing, 0 extra) detected at line 661
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
@@ -1479,42 +1489,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 640--652
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 663
+\endL or \endR problem (2 missing, 0 extra) detected at line 667
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 663
+\endL or \endR problem (0 missing, 2 extra) detected at line 667
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 668
+\endL or \endR problem (2 missing, 0 extra) detected at line 671
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 668
+\endL or \endR problem (0 missing, 2 extra) detected at line 671
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 672
+\endL or \endR problem (2 missing, 0 extra) detected at line 675
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 672
+\endL or \endR problem (0 missing, 2 extra) detected at line 675
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 676
+\endL or \endR problem (2 missing, 0 extra) detected at line 680
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 676
+\endL or \endR problem (0 missing, 2 extra) detected at line 680
 [][][] [][][][][]
  []
 
@@ -1559,12 +1569,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 640--652
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 685
+\endL or \endR problem (2 missing, 0 extra) detected at line 688
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 685
+\endL or \endR problem (0 missing, 2 extra) detected at line 688
 [][][] [][][][][]
  []
 
@@ -1598,16 +1608,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 640--652
 [][][] [][][][][]
  []
 
-
-\endL or \endR problem (2 missing, 0 extra) detected at line 692
- [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 692
-[][][] [][][][][]
- []
-
 File: kmeans_iter_1.png Graphic file (type bmp)
 <kmeans_iter_1.png>
 File: kmeans_iter_2.png Graphic file (type bmp)
@@ -1622,6 +1622,16 @@ File: kmeans_iter_5.png Graphic file (type bmp)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
+\endL or \endR problem (2 missing, 0 extra) detected at line 714
+ [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
+ []
+
+
+\endL or \endR problem (0 missing, 2 extra) detected at line 714
+[][][] [][][][][]
+ []
+
+
 \endL or \endR problem (2 missing, 0 extra) detected at line 715
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
@@ -1632,16 +1642,18 @@ LaTeX Warning: `h' float specifier changed to `ht'.
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 716
+\endL or \endR problem (2 missing, 0 extra) detected at line 719
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 716
+\endL or \endR problem (0 missing, 2 extra) detected at line 719
 [][][] [][][][][]
  []
 
 
+
+[14]
 \endL or \endR problem (2 missing, 0 extra) detected at line 720
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
@@ -1652,24 +1664,22 @@ LaTeX Warning: `h' float specifier changed to `ht'.
  []
 
 
-
-[14]
-\endL or \endR problem (2 missing, 0 extra) detected at line 721
+\endL or \endR problem (2 missing, 0 extra) detected at line 728
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 721
+\endL or \endR problem (0 missing, 2 extra) detected at line 728
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 729
+\endL or \endR problem (2 missing, 0 extra) detected at line 732
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 729
+\endL or \endR problem (0 missing, 2 extra) detected at line 732
 [][][] [][][][][]
  []
 
@@ -1714,82 +1724,72 @@ LaTeX Warning: `h' float specifier changed to `ht'.
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 737
+\endL or \endR problem (2 missing, 0 extra) detected at line 740
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 737
+\endL or \endR problem (0 missing, 2 extra) detected at line 740
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 741
+\endL or \endR problem (2 missing, 0 extra) detected at line 746
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 741
+\endL or \endR problem (0 missing, 2 extra) detected at line 746
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 747
+\endL or \endR problem (2 missing, 0 extra) detected at line 748
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 747
+\endL or \endR problem (0 missing, 2 extra) detected at line 748
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 749
+\endL or \endR problem (2 missing, 0 extra) detected at line 756
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 749
+\endL or \endR problem (0 missing, 2 extra) detected at line 756
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 757
+\endL or \endR problem (2 missing, 0 extra) detected at line 758
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 757
+\endL or \endR problem (0 missing, 2 extra) detected at line 758
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 759
+\endL or \endR problem (2 missing, 0 extra) detected at line 760
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 759
+\endL or \endR problem (0 missing, 2 extra) detected at line 760
 [][][] [][][][][]
  []
 
 
-\endL or \endR problem (2 missing, 0 extra) detected at line 761
+\endL or \endR problem (2 missing, 0 extra) detected at line 762
  [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
  []
 
 
-\endL or \endR problem (0 missing, 2 extra) detected at line 761
-[][][] [][][][][]
- []
-
-
-\endL or \endR problem (2 missing, 0 extra) detected at line 763
- [][][]$\OMS/cmsy/m/n/12 ^^O$[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 763
+\endL or \endR problem (0 missing, 2 extra) detected at line 762
 [][][] [][][][][]
  []
 
