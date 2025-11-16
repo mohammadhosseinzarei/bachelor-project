@@ -1,1 +1,1 @@
-https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhosseinzarei&layout=compact&theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadhosseinzarei&show_icons=true&theme=radical)
