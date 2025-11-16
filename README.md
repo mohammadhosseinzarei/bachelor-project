@@ -1,1 +1,1 @@
-https://github-readme-stats.vercel.app/api?mohammadhosseinzarei=yousefvafaei&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhosseinzarei&layout=compact&theme=radical
