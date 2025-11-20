@@ -4,13 +4,14 @@
 \contentsline {subsection}{\numberline {2.2}اندرفیتینگ (\lr {Underfitting})}{4}{}%
 \contentsline {subsection}{\numberline {2.3}فیتینگ خوب (\lr {Good Fitting})}{5}{}%
 \contentsline {section}{\numberline {3}انواع یادگیری}{6}{}%
-\contentsline {subsection}{\numberline {3.1}رگرسیون در یادگیری نظارت شده}{7}{}%
-\contentsline {subsubsection}{\numberline {3.1.1}رگرسیون خطی ساده}{7}{}%
-\contentsline {subsubsection}{\numberline {3.1.2}رگرسیون خطی چند متغیره}{10}{}%
-\contentsline {subsubsection}{\numberline {3.1.3}گرادیان(\lr {gradeint})}{14}{}%
-\contentsline {subsubsection}{\numberline {3.1.4}رگرسیون لجستیک}{16}{}%
-\contentsline {subsubsection}{\numberline {3.1.5}نظم‌دهی \lr {(Regularization)}}{18}{}%
-\contentsline {subsubsection}{\numberline {3.1.6}رگرسیون لاسو }{19}{}%
-\contentsline {subsubsection}{\numberline {3.1.7}رگرسیون ریچ}{20}{}%
-\contentsline {subsection}{\numberline {3.2}یادگیری بدون نظارت}{21}{}%
-\contentsline {subsubsection}{\numberline {3.2.1}\lr {K-means}}{21}{}%
+\contentsline {subsection}{\numberline {3.1}یادگیری نظات شده}{6}{}%
+\contentsline {subsection}{\numberline {3.2}رگرسیون در یادگیری نظارت شده}{8}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}رگرسیون خطی ساده}{8}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}رگرسیون خطی چند متغیره}{11}{}%
+\contentsline {subsubsection}{\numberline {3.2.3}گرادیان(\lr {gradeint})}{16}{}%
+\contentsline {subsubsection}{\numberline {3.2.4}رگرسیون لجستیک}{18}{}%
+\contentsline {subsubsection}{\numberline {3.2.5}نظم‌دهی \lr {(Regularization)}}{22}{}%
+\contentsline {subsubsection}{\numberline {3.2.6}رگرسیون لاسو }{22}{}%
+\contentsline {subsubsection}{\numberline {3.2.7}رگرسیون ریچ}{24}{}%
+\contentsline {subsection}{\numberline {3.3}یادگیری بدون نظارت}{25}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}\lr {K-means}}{26}{}%
